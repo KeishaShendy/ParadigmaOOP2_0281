@@ -32,5 +32,8 @@ int main() {
     obyek->pesan();
     obyek = &b;
     obyek->pesan();
-    
+    //a.seseorang::pesan();
+    //b.sesseorang::pesan();
+
+    return 0;
 }
